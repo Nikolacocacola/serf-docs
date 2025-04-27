@@ -235,7 +235,7 @@
 **Мы назвали этот механизм "Лентой потока" — уникальной разработкой, не имеющей прямых аналогов на рынке.** Лента потока позволяет максимально гибко и точно отображать динамику сделок, предоставляя трейдеру полный контроль над информацией в реальном времени.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 093450.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 093450.png" alt="" width="449"><figcaption></figcaption></figure>
 
 ### Основное
 
@@ -272,17 +272,28 @@
 
 * **Агрегация ленты**\
   Параметр задержки в миллисекундах (мс), объединяющий принты за заданный интервал времени в один принт/событие.
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111211.png" alt=""><figcaption></figcaption></figure>
+
 * **Фильтровать принты от**\
   Все принты, объём которых ниже указанного значения, будут скрываться.
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111255.png" alt=""><figcaption></figcaption></figure>
+
 * **Отображать значения от**\
   Значения сделок, объём которых ниже указанного, будут скрываться.
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111328.png" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../../../.gitbook/assets/bandicam 2025-04-27 11-17-08-445.jpg" alt="" width="413"><figcaption><p>без фильтра на объем</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/bandicam 2025-04-27 11-17-17-528.jpg" alt="" width="413"><figcaption><p>отображение от 1000</p></figcaption></figure></div>
+
 * **Максимальный объём принта**
 
 Значение, при котором будет достигнут максимальный визуальный размер принта.
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 103655.png" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src="broken-reference" alt=""><figcaption></figcaption></figure> <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/bandicam 2025-04-27 10-58-36-247.jpg" alt="" width="413"><figcaption><p>пример максимального размера 10К</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/bandicam 2025-04-27 10-58-45-570.jpg" alt="" width="413"><figcaption><p>пример максимального размера 100К</p></figcaption></figure></div>
 
 * **Размер мелких трейдов**
 
@@ -294,14 +305,25 @@
 
 * **Отображать принты только кружочками**\
   Отображать принты только кружочками
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111413.png" alt=""><figcaption></figcaption></figure>
+
 * **Склейка ленты по дельте**\
   При активации в ленте будет отображаться **разница между объёмом покупок и продаж**, прошедших за короткий промежуток времени.
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111444.png" alt=""><figcaption></figcaption></figure>
+
 * **Крупные принты на переднем плане**\
   Эта функция позволяет выводить крупные сделки поверх мелких принтов, улучшая читаемость чисел и акцентируя внимание на наиболее значимых событиях в ленте.
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111520.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 101609.jpg" alt="" width="185"><figcaption></figcaption></figure>
 
 * **Процент изменения цены для отображения квадратов**\
   Отображать принт прямоугольником, если цена вместе с ним изменилась больше чем на указанный процент.
 
-<figure><img src="../../../.gitbook/assets/bandicam 2025-04-27 10-22-22-577.jpg" alt="" width="196"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 111548.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/0427.gif" alt="" width="224"><figcaption><p>пример квадрата с изменением больше чем на 1%</p></figcaption></figure>
+
