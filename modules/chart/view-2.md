@@ -120,28 +120,124 @@
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095228.png" alt="" width="420"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095854.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095854.png" alt=""><figcaption><p>управление отображением кнопок Short и Long<a href="../../ru/modules/chart/view.md#otobrazhenie"> подробнее</a></p></figcaption></figure>
 
 * **Разрешить только шорт** — блокирует открытие длинных позиций.
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095239.png" alt="" width="421"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095909.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095909.png" alt=""><figcaption><p>управление отображением кнопок Short и Long<a href="../../ru/modules/chart/view.md#otobrazhenie"> подробнее</a></p></figcaption></figure>
 
 * **Запретить торговлю в стакане** — временно отключает возможность выставления ордеров в текущем стакане.
-*
 
-    <figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095250.png" alt="" width="416"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095250.png" alt="" width="416"><figcaption></figcaption></figure>
 
-
-
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 100002.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 100002.png" alt=""><figcaption><p>управление отображением кнопок Short и Long<a href="../../ru/modules/chart/view.md#otobrazhenie"> подробнее</a></p></figcaption></figure>
 
 * **Запретить торговлю во всех стаканах** — полностью отключает торговлю на всех инструментах.
-*
 
-    <figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095301.png" alt="" width="413"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095301.png" alt="" width="413"><figcaption></figcaption></figure>
+
 * **Снять все ограничения** — сбрасывает все активные ограничения и возвращает торговлю в обычный режим.
-*
 
-    <figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095311.png" alt="" width="413"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 095311.png" alt="" width="413"><figcaption></figcaption></figure>
+
+### Рабочие объемы
+
+Раздел **«Рабочие объёмы»** позволяет быстро переключаться между заранее заданными объёмами заявок с помощью горячих клавиш. Это удобно при активной торговле, где требуется динамично менять объём в зависимости от рыночной ситуации — например, входить минимальным объёмом на тест, а затем добавлять позицию. Назначение отдельных клавиш для каждого объёма ускоряет принятие решений и снижает количество ошибок.
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 10-28-01-882.gif" alt="" width="124"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 100534.png" alt="" width="439"><figcaption></figcaption></figure>
+
+* **Выбрать объём 1** — активирует предустановленный первый объём.
+* **Выбрать объём 2** — активирует второй предустановленный объём.
+* **Выбрать объём 3** — активирует третий объём.
+* **Выбрать объём 4** — активирует четвёртый объём.
+* **Выбрать объём 5** — активирует пятый объём.
+
+### Уровни
+
+Раздел **«Уровни»** предназначен для работы с горизонтальными уровнями внутри стакана — сигнальными и вспомогательными. Это особенно полезно для визуального отслеживания ключевых цен, например, уровней интереса, предполагаемой поддержки или сопротивления.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 100952.png" alt="" width="431"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 10-20-53-640.gif" alt="" width="489"><figcaption><p>для установки уровня необходимо кликнуть в лимитную часть стакана</p></figcaption></figure>
+
+* **Установить активный (сигнальный) уровень** — используется для обозначения ключевого ценового уровня, при достижении которого будет срабатывать уведомление и звуковой сигнал.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 100940.png" alt="" width="416"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Frame 121.png" alt="" width="437"><figcaption><p>цвета можно настроить в теме</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 101314.png" alt="" width="259"><figcaption><p>уведомление при касанием ценой</p></figcaption></figure>
+
+* **Установить неактивный уровень** — позволяет добавить второстепенный уровень для ориентира, не влияющего на основные сигналы.
+
+<figure><img src="../../.gitbook/assets/Frame 121 (1).png" alt="" width="437"><figcaption><p>При касании ценой активного уровня он автоматически деактивируется и становится не активным</p></figcaption></figure>
+
+* **Удалить уровень** — удаляет любой ранее установленный уровень в стакане.
+
+### Видимость
+
+Раздел **«Видимость»** отвечает за быстрый контроль визуального представления стакана и управление пресетами отображения. Это позволяет мгновенно адаптировать интерфейс под текущие условия торговли.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 103133.png" alt="" width="437"><figcaption></figcaption></figure>
+
+* **Центровать стакан** — позволяет вручную отцентрировать активный стакан в окне.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 104507.png" alt="" width="423"><figcaption></figcaption></figure>
+
+* **Центровать все стаканы** — синхронно выравнивает позиции всех открытых стаканов
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 104355.png" alt="" width="422"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 10-42-42-576.gif" alt="" width="389"><figcaption></figcaption></figure>
+
+* **Менять сжатие стакана колесиком мыши** — активация/деактивация изменения плотности отображения цен с помощью колеса мыши.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 103613.png" alt="" width="432"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 10-37-12-011.gif" alt="" width="330"><figcaption></figcaption></figure>
+
+* **Выбрать пресет видимости 1–5** — переключение между заранее настроенными вариантами отображения стакана (например, с разной глубиной или плотностью).
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 103432.png" alt="" width="422"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 10-34-02-550.gif" alt="" width="124"><figcaption></figcaption></figure>
+
+### Прочее
+
+Раздел **«Прочее»** содержит дополнительные вспомогательные команды, которые улучшают взаимодействие с интерфейсом и ускоряют работу в терминале.
+
+* **Вставить тикер в стакан из буфера обмена** —удобная функция, позволяющая мгновенно открыть нужный инструмент, просто скопировав его тикер. Она особенно полезна для быстрой передачи символа из Octopus Trade прямо в стакан терминала.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 105531.png" alt="" width="428"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 10-54-27-787.gif" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+В сочетании с быстрыми вставками в Octopus Trade эта функция усиливает общую удобство работы и становится частью интеграции с экосистемой Octopus, которая уже реализована частично и продолжает развиваться.
+{% endhint %}
+
+* **Восстановить соединение** — позволяет вручную инициировать повторное подключение к бирже, что полезно при потере соединения для быстрого восстановления работы терминала.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 105655.png" alt="" width="427"><figcaption></figcaption></figure>
+
+* **Переключить отображение профита в стакане** — смена отображения между прибылью в валюте и в процентах.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 105902.png" alt="" width="425"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 11-02-01-083.gif" alt="" width="360"><figcaption></figcaption></figure>
+
+* **Показать/скрыть High/Low кластера** — включает или выключает отображение экстремумов кластера.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 105933.png" alt="" width="421"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 11-02-28-613 (1).gif" alt="" width="563"><figcaption></figcaption></figure>
+
+* **Переключить стакан в доллары / лоты** — переключает единицу измерения отображаемых значений.
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2025-05-04 105958.png" alt="" width="422"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/bandicam 2025-05-04 11-04-08-994.gif" alt="" width="266"><figcaption></figcaption></figure>
