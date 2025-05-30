@@ -28,6 +28,8 @@
 
 ## <mark style="background-color:blue;">Стакан</mark>
 
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-05-30 184035.png" alt="" width="460"><figcaption></figcaption></figure>
+
 Во вкладке **«Стакан»** доступны следующие модули:
 
 * [**Заполнение стакана по ширине**](view.md#zapolnenie-stakana-po-shirine) — регулирует визуальное распределение уровней стакана по горизонтали, что позволяет лучше считывать плотности.
@@ -240,7 +242,7 @@
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 093450.png" alt="" width="449"><figcaption></figcaption></figure>
 
-### Основное
+### Основные
 
 
 
@@ -333,6 +335,8 @@
 ## <mark style="background-color:blue;">Кластера</mark>
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана 2025-04-27 113400.png" alt="" width="290"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана 2025-05-30 184614.png" alt="" width="454"><figcaption></figcaption></figure>
 
 Раздел **«Кластер»** позволяет настраивать отображение сделок внутри свечи с разбивкой по объёму и направлению.\
 Кластеры дают более глубокую информацию о распределении объёмов внутри свечей и помогают выявлять скрытую активность участников рынка.
