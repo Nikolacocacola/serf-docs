@@ -20,6 +20,7 @@
     * [График](ru/modules/octopus/what-it-does.md)
     * [Рабочее пространство](modules/octopus/what-it-does-1.md)
     * [Octopus](modules/octopus/what-it-does-2.md)
+    * [Watchlist](modules/octopus/watchlist.md)
   * [Новая вкладка](ru/modules/orderbook/README.md)
     * [Комбинирование модулей](ru/modules/orderbook/trading.md)
   * [ Добавить новую вкладку ](modules/workspace.md)
